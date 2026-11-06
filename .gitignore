@@ -1,0 +1,31 @@
+# Gradle and build outputs
+.gradle/
+build/
+out/
+run/
+
+# Local IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+.vscode/
+
+# Runtime and diagnostic outputs
+logs/
+crash-reports/
+*.log
+*.hprof
+verification/scope-comparison/
+
+# Local credentials and environment
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Keep gradle/wrapper and libs JARs: they are build inputs.
