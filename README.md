@@ -4,7 +4,7 @@
 
 # TaCZ-JYVR
 
-Minecraft 1.20.1 的 TaCZ VR 修改版，配合 Forge 与 Vivecraft 使用。当前版本：**0.1.0**。
+Minecraft TaCZ的VR适配mod（含ai生成）
 
 通过 VR 手柄操作枪械：举枪瞄准、拆装弹匣、逐发装填，并按枪械的动作类型操作枪机、护木或其他可动部件。
 
