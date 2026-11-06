@@ -85,8 +85,8 @@ chmod +x gradlew
 
 保留 TaCZ 原项目作者署名：
 
-- 程序：`286799714`、`TartaricAcid`、`F1zeiL`、`xjqsh`、`ClumsyAlien`
-- 美术：`NekoCrane`、`Receke`、`Pos_2333`
+- 程序：junyun1337
+- 美术：junyun1337
 
 原项目许可声明：
 
